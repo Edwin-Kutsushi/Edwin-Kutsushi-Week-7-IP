@@ -26,3 +26,8 @@ Quantile Regression
 Ridge Regression
 Lasso Regression
 Elastic Net Regression
+This is the first release.
+Meta Team Time Data Report Distributed under the GNU General Public License v3.0. See LICENSE for more information. https://github.com/Edwin-Kutsushi/Edwin-Kutsushi-week-7-IP.git
+
+Contributing
+Fork it https://github.com/Edwin-Kutsushi/Edwin-Kutsushi-week-7-IP.git Create your feature branch (git checkout -b feature/fooBar) Commit your changes (git commit -am 'Add some fooBar') Push to the branch (git push origin feature/fooBar) Create a new Pull Request
